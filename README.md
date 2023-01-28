@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Falklian
-- 👀 I’m interested in self-hosted applications, development of just about any kind. I'm mainly a JavaScript/Node/PHP developer and prefer backend development
-- 🌱 I’m currently learning how to use ECS on AWS
+- 👀 I’m interested in self-hosted applications, development of just about any kind. I'm mainly a JavaScript/Node/PHP developer and prefer backend development. Getting slightly less mediocre with Golang
+- 🌱 I’m currently brushing up on TypeScript 
 - 💞️ I’m looking to collaborate on whatever I can be helpful with
 - 📫 How to reach me: through GitHub
 
